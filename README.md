@@ -10,7 +10,7 @@ An example of Django project with basic user functionality.
 
 | Password reset | Set new password | Password change |
 | ---------------|------------------|-----------------|
-| <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="./screenshots/set_new_password.png" width="200"> | <img src="./screenshots/password_change.png" width="200"> |
+| <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="./screenshots/password_change.png" width="200"> |
 
 ## Functionality
 
