@@ -10,7 +10,7 @@ An example of Django project with basic user functionality.
 
 | Password reset | Set new password | Password change |
 | ---------------|------------------|-----------------|
-| <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="./screenshots/password_change.png" width="200"> |
+| <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> | <img src="https://i.postimg.cc/R0YHh4PG/authorized-page.png" width="200"> |
 
 ## Functionality
 
@@ -30,7 +30,7 @@ An example of Django project with basic user functionality.
 - Change profile
 - Multilingual: English, French, Simplified Chinese and Spanish
 
-If you need dynamic URLs with the language code, check out 
+If you need dynamic URLs with the language code, check out https://github.com/CrimCraw/django_with_postgres/blob/master/README.md
 
 ## Installing
 
